@@ -1,0 +1,19 @@
+
+    Spring Framework
+        เป็น Java Framework สำหรับสร้างแอปพลิเคชันระดับองค์กร
+        โดยสามารถปรับขนาดได้และมีความน่าเชื่อถือ
+        
+        โดยจะมี Libraries ให้เราสามารถนำไปใช้ได้มากมาย
+
+    Spring Boot
+        เป็น Framework ที่รวบรวม Dependencies ที่ตำเป็นสำหรับการสร้าง HTTP Server
+        และตั้งค่า configuration ให้เรา
+
+    โดย Spring ยังมีโครงการอื่น ๆ อีก เช่น
+        Spring Data
+        Spring Cloud
+        Spring Security
+        Spring Session
+        Spring Integration
+        Spring Batch
+        Spring State Machine
