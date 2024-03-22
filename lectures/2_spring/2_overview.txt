@@ -1,0 +1,22 @@
+
+    Spring Web App Overview
+        เริ่มต้นทำงานที่ port 8080
+        มี tomcat ทำงานอยู่เบื้องหลัง
+
+    ระดับชั้น
+        Thymeleaf
+        Controller
+        Service
+        Repository
+        Hibernate
+            Spring Data JPA 
+            JDBC / SQL
+        Database
+
+    Design Pattern
+        Controller 
+        Service 
+            Service Interface
+            Service Implement
+        Repository
+        Domain (Entity)
